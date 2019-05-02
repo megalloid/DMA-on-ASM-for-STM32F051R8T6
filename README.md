@@ -2,7 +2,7 @@
 
 Simple project template for Keil uVision 5 IDE.
 
-Project contains simple configuring RCC module on assembly language (ARM ASM) for STM32F051R8T6.
+Project contains simple configuring DMA module on assembly language (ARM ASM) for STM32F051R8T6.
 
 Main: User/main.asm
 
